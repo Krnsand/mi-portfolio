@@ -8,6 +8,7 @@ header {
   text-align: left;
   margin-left: 3rem;
   margin-top: 2rem;
+  font-size: 30px;
 }
 
 #menu {
@@ -38,7 +39,7 @@ li {
   position: fixed;
   top: 0;
   width: 100%;
-  /*box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+  /*box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 } */
 
 .active {
